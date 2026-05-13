@@ -1,0 +1,8 @@
+.vs/
+CopilotIndices/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
